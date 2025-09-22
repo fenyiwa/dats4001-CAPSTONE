@@ -1,0 +1,11 @@
+seq_id,accession,transcript_variant,organism,length_nt,gc_percent,n_count,isoform_guess,description,md5
+NM_001363864.1,NM_001363864.1,transcript variant 4,BCL11A,4008,51.871,0,,"NM_001363864.1 Homo sapiens BCL11 transcription factor A (BCL11A), transcript variant 4, mRNA",32eaa93e4e41dcdc0980ab67aad3cbf8
+NM_022893.4,NM_022893.4,transcript variant 1,BCL11A,6102,44.215,0,,"NM_022893.4 Homo sapiens BCL11 transcription factor A (BCL11A), transcript variant 1, mRNA",2bb3506f0a332aa8a5b5d7d80f9a9de1
+NM_018014.4,NM_018014.4,transcript variant 2,BCL11A,4761,51.061,0,,"NM_018014.4 Homo sapiens BCL11 transcription factor A (BCL11A), transcript variant 2, mRNA",0a1c4e658d0064e46b69eb98edd36cd4
+NM_001405724.1,NM_001405724.1,transcript variant 9,BCL11A,2622,58.238,0,,"NM_001405724.1 Homo sapiens BCL11 transcription factor A (BCL11A), transcript variant 9, mRNA",c67a4d7213a459d874ae21535a1cbdee
+AY692278.1,AY692278.1,,BCL11A,429,49.650,0,,"AY692278.1 Homo sapiens B-cell lymphoma/leukaemia 11A extra-short form (BCL11A) mRNA, complete cds, alternatively spliced",a2ede67ec779db250a487ce292a7e144
+AJ404611.1,AJ404611.1,,BCL11A-XL gene,5941,44.033,0,XL,AJ404611.1 Homo sapiens mRNA for B-cell lymphoma/leukaemia 11A extra long form (BCL11A-XL gene),9992bec241a5ac4370c2fa2049a452e1
+NM_001365609.1,NM_001365609.1,transcript variant 5,BCL11A,5844,43.908,0,,"NM_001365609.1 Homo sapiens BCL11 transcription factor A (BCL11A), transcript variant 5, mRNA",d0913c27a6a86c5532c3843344f9d383
+NM_001405722.1,NM_001405722.1,transcript variant 26,BCL11A,2901,58.600,0,,"NM_001405722.1 Homo sapiens BCL11 transcription factor A (BCL11A), transcript variant 26, mRNA",5e3697959ae68c7075732ea2aacd4b9d
+AJ404612.1,AJ404612.1,,BCL11A-L gene,3958,51.870,0,L,AJ404612.1 Homo sapiens mRNA for B-cell lymphoma/leukaemia 11A long form (BCL11A-L gene),ffd83732de38de8c69138dbf70b8f1c7
+AJ404613.1,AJ404613.1,,BCL11A-S gene,2358,43.851,0,S,AJ404613.1 Homo sapiens mRNA for B-cell lymphoma/leukaemia 11A short form (BCL11A-S gene),08f0ffdbbe00476c8194a68d8c1f99e5
