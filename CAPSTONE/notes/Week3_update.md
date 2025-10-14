@@ -1,0 +1,5 @@
+## Week 3 Update
+
+This week I focused on setting up the “quickstart” version of my analysis pipeline for the **BCL11A** gene. The goal of this step is to look inside one specific “neighborhood” on chromosome 2—where the BCL11A “house” lives—and identify all the small “house differences” (SNPs) that might affect how this gene controls fetal hemoglobin. I downloaded the DNA reference sequence for chromosome 2 (the **FASTA**) and a large population dataset of genetic variants (the **VCF**) from the 1000 Genomes Project.
+
+Using those two files, I built a starter Python script that slices out just the BCL11A region from the massive chromosome 2 file, lists all the variants inside it, and makes a quick plot showing where those variants fall. I’m still having some trouble getting the quickstart script to run smoothly because of differences between genome versions and file formats, but I’ve learned a lot about how indexing and coordinate systems work in real genomic data. Once I get this version running, I’ll be able to move on to analyzing which of these variants might actually change gene activity.
