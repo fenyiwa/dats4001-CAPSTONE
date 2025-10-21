@@ -1,0 +1,242 @@
+chr,pos,snp_id,variant_type,function_class,validation_status,clinical_significance,gene
+2,60460824,7569946,snv,"['synonymous_variant', 'coding_sequence_variant', 'missense_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",benign,BCL11A
+2,60493111,11886868,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",likely-pathogenic;benign,BCL11A
+2,60521943,76673,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60521974,76674,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60520057,168562,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60517196,168565,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60521810,356976,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60521623,356977,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60520608,356979,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60517737,356991,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60526458,356992,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60523425,356993,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60475631,733628,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60492835,766432,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60547638,971563,snv,"['genic_upstream_transcript_variant', 'upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60480453,1123573,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60490908,1427407,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60547510,1427408,snv,"['genic_upstream_transcript_variant', 'upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60515290,1469358,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60516540,1510481,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60491713,1896293,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60491939,1896294,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60496951,1896295,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60496952,1896296,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60511092,1896297,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60470329,2022098,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60530284,2457660,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60529345,2556373,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60532612,2556375,snv,"['genic_upstream_transcript_variant', 'upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60532897,2556376,snv,"['genic_upstream_transcript_variant', 'upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60533502,2556377,snv,"['genic_upstream_transcript_variant', 'upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60535367,2556378,snv,"['genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60541843,2665668,snv,"['genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60542320,3771270,snv,"['genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60493816,4671393,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60470519,4672393,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60471326,4672394,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60463923,5831583,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60541230,5831586,delins,"['genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60487726,6545816,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60488044,6545817,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60511851,6545818,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60511926,6545819,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60515437,6545820,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60494905,6706648,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60500494,6709302,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60509702,6724431,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60496537,6729815,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60477604,6731647,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60481462,6732518,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60495106,6738440,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60543319,6739994,snv,"['genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60513188,6740172,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60513356,6740203,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60550363,6747099,snv,"['upstream_transcript_variant', 'genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60520528,6747156,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60550628,6747163,snv,"['upstream_transcript_variant', 'genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60509394,7340264,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60511532,7340410,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60494212,7557939,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60500281,7560588,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60496131,7565301,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60478097,7570641,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60552343,7576657,snv,"['upstream_transcript_variant', 'genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60552705,7577014,snv,"['upstream_transcript_variant', 'genic_upstream_transcript_variant', '5_prime_UTR_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60480759,7579014,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60477349,7581162,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60494176,7584113,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60544449,7593408,snv,"['genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60491212,7599488,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60498316,7606173,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60462613,9789627,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60493622,10172646,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60502159,10184550,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60486100,10189857,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60493454,10195871,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60537806,10427250,snv,"['genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60530333,10699821,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60524561,11361253,del,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60514874,11437234,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60513389,11675774,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60484324,11677366,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60483603,11692396,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60510025,12105383,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60509850,12105711,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60471152,12469024,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60471262,12477097,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60456760,12477846,snv,"['genic_downstream_transcript_variant', 'intron_variant', 'downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60455312,12621957,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60485449,12623979,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60479903,12992182,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60480047,12997966,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60542945,13018474,snv,"['genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60483436,13019832,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60489173,13024177,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60490264,13031396,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60500785,13397229,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60472522,13404194,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60456238,17028290,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60452807,17331129,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60541647,17535596,snv,"['intron_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60518261,28366455,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60523652,34605417,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60478473,34737760,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60474756,34928194,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60473139,35125709,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60454619,35507444,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60526820,35894657,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60480806,35908689,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60457671,36105824,delins,"['3_prime_UTR_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60491586,45439602,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60496770,45474996,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60511224,45481193,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60510842,45488794,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60511177,45491193,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60500712,45500794,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60537199,45510399,snv,"['intron_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60481954,45527235,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60503277,45556843,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60501436,45562141,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60481267,45564436,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60510450,45564931,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60544594,45565333,snv,"['intron_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60508036,45570331,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60528628,45595933,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60503487,45596438,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60504204,45611940,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60514385,45622439,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60510350,45627332,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60477608,55990324,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60505010,56089361,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60481756,57024823,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60505555,57186683,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60474200,58469620,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60539366,58584585,snv,"['intron_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60529995,58642035,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60509717,58789059,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60514496,58972358,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60522492,59050346,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60462306,61749494,snv,"['missense_variant', 'synonymous_variant', 'coding_sequence_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60494985,62142615,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60495974,62142644,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60499292,62142646,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60507448,66488669,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60546553,67861577,delins,"['intron_variant', 'upstream_transcript_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60476591,70953653,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60466187,70953654,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60454052,70953657,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60531169,71526482,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60489836,71526490,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60454440,71526493,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60502567,72962585,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60504631,72962586,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60510666,72962592,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60515110,72962596,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60516470,72962602,snv,"['coding_sequence_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60523168,72964414,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60528663,72964419,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60529369,72964424,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60529620,72964428,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60530667,72964430,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60534424,72964440,snv,"['intron_variant', 'upstream_transcript_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60550081,72964457,snv,"['5_prime_UTR_variant', 'intron_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60457486,73932586,snv,"['3_prime_UTR_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60513825,73932591,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60526644,73932593,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60531624,73932594,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60534920,73932597,snv,"['intron_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60536032,73932598,snv,"['intron_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60536034,73932599,snv,"['intron_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60507649,74543787,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60493634,74644352,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60482170,74743473,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60490641,74958177,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60504228,75024544,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60501021,75468792,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60504259,76944200,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60495836,77330833,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60496038,77374908,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60469393,77406335,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60522386,77434017,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60510266,77662111,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60521477,77731896,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60487830,77890283,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60478975,78084010,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60501014,78626586,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60543852,78670728,snv,"['genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60515354,78919997,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60528627,79059225,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60505296,79204585,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60504643,79680345,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60505181,79864466,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60548306,79945505,snv,"['genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60488918,111713027,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60502038,112727722,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60506709,113656311,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60509969,113673753,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60455810,114012663,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60507833,114185431,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60545844,114566772,snv,"['intron_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60509357,114615813,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60503987,114655013,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60453863,114763960,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60552892,114864373,snv,"['intron_variant', 'genic_upstream_transcript_variant', 'upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60505081,114868408,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60496496,114895081,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60510179,115397838,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60504547,115418712,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60473051,115445893,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60504964,115656491,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60539569,115735551,snv,"['intron_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60521352,115917401,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60537909,116132158,snv,"['intron_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60528295,116155062,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60473050,116260340,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60543760,116440337,snv,"['intron_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60519076,116579637,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60505073,116809975,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60523898,137866865,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60524016,139422069,del,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60506108,142643007,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60466779,146402255,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60528809,146481566,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60507213,149237149,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60500858,149262863,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60543518,150918139,snv,"['genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60528078,181008819,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60548305,181024387,snv,"['genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60552351,187745290,snv,"['genic_upstream_transcript_variant', 'intron_variant', 'upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60473005,189749882,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60522306,369843445,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60534351,370526639,snv,"['intron_variant', 'genic_upstream_transcript_variant', 'upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60521105,372477611,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60467414,536467199,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60507227,539947600,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60538720,542617506,delins,"['intron_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60468035,558957973,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60507381,562790614,del,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60467413,569077656,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60467723,573319780,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A
+2,60507375,577095833,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,BCL11A

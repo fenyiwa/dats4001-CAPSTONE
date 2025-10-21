@@ -1,0 +1,7 @@
+chr,pos,snp_id,variant_type,function_class,validation_status,clinical_significance,gene
+19,12885686,2072596,snv,"['missense_variant', 'coding_sequence_variant']","['by-frequency', 'by-alfa', 'by-cluster']",benign,KLF1
+19,12885926,2072597,snv,"['missense_variant', 'coding_sequence_variant']","['by-frequency', 'by-alfa', 'by-cluster']",benign,KLF1
+19,12886115,112631212,snv,"['coding_sequence_variant', 'missense_variant']","['by-frequency', 'by-alfa', 'by-cluster']",benign,KLF1
+19,12885905,117351327,snv,"['coding_sequence_variant', 'missense_variant']","['by-frequency', 'by-alfa', 'by-cluster']",benign,KLF1
+19,12886919,10407416,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,KLF1
+19,12886311,113487247,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,KLF1
