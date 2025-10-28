@@ -1,0 +1,3 @@
+# Week 6 Update
+
+This week, I focused on refining my data analysis and preparing for the integration of predictive modeling. I reviewed the cleaned SNP datasets for my modifier genes to ensure consistency across frequency and annotation fields. I also began outlining the predictive modeling framework that will connect variant data to potential phenotype outcomes. The next step will involve selecting appropriate algorithms (e.g., logistic regression or random forest) and testing them on my preliminary dataset to assess accuracy and interpretability.
