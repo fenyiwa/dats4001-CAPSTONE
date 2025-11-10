@@ -1,0 +1,458 @@
+chr,pos,snp_id,variant_type,function_class,validation_status,clinical_significance,gene
+6,135195921,6927965,snv,"['synonymous_variant', 'coding_sequence_variant', 'intron_variant', 'non_coding_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",benign,MYB;LOC105378011
+6,135200284,17064293,snv,"['intron_variant', 'downstream_transcript_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",benign,MYB;LOC105378011
+6,135196970,73555742,snv,"['non_coding_transcript_variant', 'missense_variant', 'coding_sequence_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",benign,MYB;LOC105378011
+6,134966395,13064,snv,"['synonymous_variant', 'genic_downstream_transcript_variant', '3_prime_UTR_variant', 'missense_variant', 'coding_sequence_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135188521,210795,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135189970,210796,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135193420,210798,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135219311,210936,snv,"['upstream_transcript_variant', '500B_downstream_variant', 'genic_upstream_transcript_variant', 'downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135219242,210937,snv,"['upstream_transcript_variant', '500B_downstream_variant', 'genic_upstream_transcript_variant', 'downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135216759,210938,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135216752,210939,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135215448,210940,snv,"['non_coding_transcript_variant', 'intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135215358,210941,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135214309,210942,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135214102,210943,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135213880,210944,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135213685,210945,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135212146,210946,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135210662,210948,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135210501,210949,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135210313,210950,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135182647,210962,snv,"['genic_upstream_transcript_variant', 'intron_variant', 'upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135207584,723388,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135201801,743589,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135022361,949547,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135028019,952674,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135021765,978036,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135029241,987690,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135055907,997524,snv,"['2KB_upstream_variant', 'intron_variant', 'upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L;LOC124901405
+6,135217501,1013891,snv,"['non_coding_transcript_variant', 'intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135013288,1014020,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135013462,1014021,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135190449,1022506,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135022691,1023179,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135051938,1041480,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135013925,1041481,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135030950,1590975,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135039162,1854865,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135025993,2150680,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135054094,2150681,snv,"['2KB_upstream_variant', 'intron_variant', 'upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L;LOC124901405
+6,135056494,2150682,snv,"['2KB_upstream_variant', 'intron_variant', 'upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L;LOC124901405
+6,135217454,2179308,snv,"['non_coding_transcript_variant', 'intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135055953,2183709,snv,"['2KB_upstream_variant', 'intron_variant', 'upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L;LOC124901405
+6,135213508,2237261,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135054624,2297338,snv,"['2KB_upstream_variant', 'intron_variant', 'upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L;LOC124901405
+6,135008831,2327578,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135043279,2327580,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135053315,2327581,snv,"['2KB_upstream_variant', 'intron_variant', 'upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L;LOC124901405
+6,135016916,3071557,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135027777,3071559,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135218251,3216774,delins,"['upstream_transcript_variant', 'genic_downstream_transcript_variant', '3_prime_UTR_variant', 'non_coding_transcript_variant', 'genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135201617,3752383,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135019873,3756799,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135204258,3819409,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135204599,3819410,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135020162,3834279,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135032956,4134030,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135056048,4142299,snv,"['2KB_upstream_variant', 'intron_variant', 'upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L;LOC124901405
+6,134976382,4273704,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134986347,4376364,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134986602,4376365,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134988459,4388304,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134974935,4407732,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134988074,4445070,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134989408,4451151,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135002947,4559100,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134976524,4580893,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134977020,4637662,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134972227,4895434,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134972325,4895435,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134973863,4895436,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134996216,4895437,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134996527,4895438,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134997716,4895439,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134972253,4896119,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134972374,4896120,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134972507,4896121,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134973943,4896122,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134974272,4896123,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135021431,4896125,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135021648,4896126,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135024321,4896127,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135028618,4896128,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135028707,4896129,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135033980,4896130,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135026877,5880242,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135032934,6149819,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134990503,6569986,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135002239,6569987,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135031165,6569988,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135040776,6569989,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135044680,6569990,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135015449,6902438,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135015719,6902888,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134992856,6902954,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135044207,6903427,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135046619,6908512,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135016595,6908681,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134994432,6909975,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135011632,6910530,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135182912,6913228,snv,"['genic_upstream_transcript_variant', 'upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135048076,6915770,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135213879,6919208,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135031305,6919862,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135198362,6920829,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135186256,6922903,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135014130,6923512,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135014038,6923765,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135014244,6923827,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134992810,6925424,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135007654,6929661,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135214883,6936293,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135044994,6940258,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135045171,6940878,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135216055,7738267,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135053230,7741515,snv,"['2KB_upstream_variant', 'intron_variant', 'upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L;LOC124901405
+6,134993044,7741626,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135037429,7742542,snv,"['missense_variant', 'coding_sequence_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135202445,7744765,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135034585,7748274,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135034536,7748403,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135029812,7750300,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135029794,7750574,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135035899,7754150,snv,"['3_prime_UTR_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134973121,7755680,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135201544,7757388,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,134993127,7761964,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135202636,7762830,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135041240,7763836,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135032713,7766189,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135038629,7769858,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134997252,7773126,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135035979,7774749,snv,"['3_prime_UTR_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135031510,9321481,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135205630,9321493,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135206176,9321494,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,134975697,9373118,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134983871,9373119,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135001191,9373120,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135037778,9373121,snv,"['coding_sequence_variant', 'synonymous_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135052396,9373122,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134969785,9376073,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134970980,9376074,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134975825,9376075,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134978230,9376076,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134978575,9376077,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134992932,9376078,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134993145,9376079,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134994260,9376080,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135023240,9376081,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135025251,9376082,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135030582,9376083,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135038908,9376084,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135050086,9376085,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135050191,9376086,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135051093,9376087,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135024809,9385714,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135203378,9385719,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135004579,9389251,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135008617,9389253,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135009571,9389254,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135009735,9389255,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135010116,9389256,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135023173,9389257,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135040002,9389258,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135047193,9389260,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135050010,9389261,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135204789,9389278,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,134987993,9399130,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134991585,9399132,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135047176,9399135,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134966275,9402669,snv,"['genic_downstream_transcript_variant', 'downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134996651,9402671,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135001606,9402674,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135004656,9402675,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135034369,9402676,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135049570,9402677,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135050965,9402678,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135051096,9402679,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135203415,9402696,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135204821,9483799,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135207350,9483800,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,134974694,9494128,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135184567,9494173,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135194274,9494174,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135200948,9494176,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135207853,9494177,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135001888,9688342,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134978544,10484496,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134967823,10484497,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135011906,10605981,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135032314,10872427,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134991807,11154790,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135194310,11154794,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135002065,11270443,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135001475,11314951,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135036408,11319479,del,"['intron_variant', '3_prime_UTR_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135004261,11336026,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134995097,11339846,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135041148,11390141,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135207738,11433082,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135004518,11433393,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134995338,11753673,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134987237,11754021,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135035078,11754265,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135000371,11754504,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135026523,11754783,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135048775,11755229,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135035331,11756749,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135026457,11756988,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134970155,11757723,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135023293,11757991,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135049357,11759999,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135049358,11760000,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135047368,11961874,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135198179,11962836,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135049074,11963222,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135008601,11967110,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135013546,11970574,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135208423,12203816,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,134984166,12525425,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135004780,12526055,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134982218,12526072,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135003396,12527683,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135003373,12527707,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135211130,12530466,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135196858,12660713,snv,"['intron_variant', 'non_coding_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135028432,12661423,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134995888,12663447,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135196476,12663543,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,134968644,12663810,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134967525,12664898,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135045742,13191501,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135025213,13192235,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134991242,13197750,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134965367,13199205,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135023657,13209780,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135046778,13209789,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134978821,13214669,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134988802,13218642,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135190744,17064280,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135191266,17064281,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135191353,17064283,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135196676,17064291,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,134998925,17638970,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135202112,17639758,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135187715,17720864,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135185296,28482814,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135185304,34117575,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,134968768,34125490,del,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135024550,34343700,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134991170,34360561,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134968240,34363018,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135046252,34531160,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135048571,34546690,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135028498,34642393,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135208082,34723585,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135032183,34784084,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135045839,34794900,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135193692,34931156,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,134971105,35043222,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134998424,35057238,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134965301,35078158,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134981602,35123050,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135217370,35138768,delins,"['intron_variant', 'non_coding_transcript_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,134980757,35277818,delins,"['upstream_transcript_variant', '2KB_upstream_variant', 'genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L;MIR3662
+6,135023317,35367489,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135006317,35485255,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135028265,35511460,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135017996,35527892,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134969217,35571217,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135017993,35746876,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135197505,35805384,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135050589,35916433,snv,"['coding_sequence_variant', 'synonymous_variant', '5_prime_UTR_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135003569,35996451,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135025501,36006349,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135201211,41294866,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135202648,41294868,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135002913,45544135,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135052584,55725857,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135055792,55799746,snv,"['upstream_transcript_variant', '2KB_upstream_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L;LOC124901405
+6,135056370,55973902,snv,"['upstream_transcript_variant', '2KB_upstream_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L;LOC124901405
+6,135004613,55984937,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135043233,56076036,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135024778,56095299,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134967578,56164974,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135203383,56247805,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135196058,56259263,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135218817,56268608,delins,"['upstream_transcript_variant', 'genic_downstream_transcript_variant', 'intron_variant', 'non_coding_transcript_variant', '3_prime_UTR_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135211694,56272720,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135208901,56329496,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135216060,56355801,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,134985842,56358308,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135029568,56727554,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135022320,57255370,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135021735,59131140,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135021299,59329760,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135042886,59792276,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135048584,59910720,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135049345,60633050,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134988317,60916993,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135023447,61238805,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135038371,61459569,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135199944,67400568,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135009801,67876204,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134974651,71006747,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135029348,71006750,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135040345,71006751,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135001483,71724938,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134997089,72155156,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135002641,72972165,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135031199,72972197,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135205101,72974197,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135010585,73549301,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134985383,73774527,snv,"['genic_downstream_transcript_variant', 'missense_variant', 'coding_sequence_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134986875,73774528,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134988800,73774529,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134991084,73774530,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135013164,73774532,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135018133,73774535,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135018884,73774537,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135020448,73774538,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135026036,73774540,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135035040,73774544,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135037796,73774546,snv,"['missense_variant', 'coding_sequence_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135040097,73774548,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135041822,73774550,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135045117,73774553,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135046896,73774555,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135047413,73774558,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135047654,73774560,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135052765,73774563,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135207162,74435840,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135000844,74990111,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135186236,75086215,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135051897,75365983,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135015377,75722702,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134966099,75841989,snv,"['downstream_transcript_variant', 'genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135011240,76028045,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135194615,76135348,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135020918,76146891,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135211751,76230903,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,134989237,76241730,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135188291,76250521,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,134984071,76265852,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134981118,76344333,snv,"['2KB_upstream_variant', 'genic_downstream_transcript_variant', 'upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L;MIR3662
+6,135051276,76407617,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135200051,76606753,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135016517,76625023,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135021533,76757780,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134972004,76917868,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135006188,76921182,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135181728,77014071,snv,"['genic_upstream_transcript_variant', 'upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,134975352,77048658,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135017611,77246737,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135207682,77386997,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135016356,77606137,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135194702,77777534,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,134995217,77862865,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135052571,77867332,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135002915,78074109,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135007432,78298516,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135007939,78644069,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135045732,78763832,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135038378,78935437,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135185566,79019330,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135050887,79216502,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135027288,79366997,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135191641,79564755,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135001484,79577353,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135189381,79590726,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135043638,79784564,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134975328,79876943,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135014590,79980945,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135048554,80158359,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135045757,80257773,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135027949,111530472,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135042745,111583606,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135186066,111852778,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135035550,112197501,snv,"['genic_downstream_transcript_variant', 'intron_variant', 'downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135015674,112476323,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134973896,112627565,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135205899,114071504,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135187993,114671851,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135198081,115016563,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135011427,115025973,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135041430,115123439,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135030236,115267761,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135192917,115281620,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135214594,115385293,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,134990343,115446407,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135037935,115458424,snv,"['synonymous_variant', 'intron_variant', 'coding_sequence_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135046582,115534326,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135182625,115678149,snv,"['upstream_transcript_variant', 'genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,134976808,115800056,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135031731,115903709,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135204522,116090954,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135049852,116244479,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135017997,116273677,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135037260,116294454,snv,"['missense_variant', 'synonymous_variant', 'intron_variant', 'coding_sequence_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134973547,116303346,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134990359,116395487,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135026758,116595867,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135196484,116752298,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135011428,117206061,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135201502,117540901,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135037766,117966977,snv,"['coding_sequence_variant', 'missense_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134973269,118023853,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135050692,118165421,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135003779,138135764,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134991097,138178348,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135016047,138401834,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135189006,138684480,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135184617,138725183,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135034405,138726773,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135202922,139146517,del,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135007709,140049958,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135012157,140824528,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135051557,142257245,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135003922,142511791,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134968370,142548937,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135034410,142776953,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134975121,143248300,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135023842,143286444,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135015613,143622758,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135049032,143721632,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135007182,143925657,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135046932,144097544,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135042762,144258459,snv,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135014181,144506765,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135023286,144560319,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135207978,145125135,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135003763,145523163,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134983462,145588456,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135028866,146280166,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135027116,147138052,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134986221,147856847,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135034419,147989910,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135205875,148666729,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135041315,149113606,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135023543,149831265,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135014773,150875429,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135015779,183710939,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135181703,183747919,snv,"['upstream_transcript_variant', 'genic_upstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135009783,190536695,snv,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135035556,191688268,snv,"['genic_downstream_transcript_variant', 'intron_variant', 'downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135042825,200898299,delins,['intron_variant'],"['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135000444,367973294,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,134991083,370931237,delins,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135000654,377077621,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135181606,533054622,snv,"['upstream_transcript_variant', 'intron_variant', 'genic_upstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB
+6,135212225,545704827,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,135208547,567088347,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,MYB;LOC105378011
+6,134979847,576542434,snv,"['2KB_upstream_variant', 'intron_variant', 'upstream_transcript_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L;MIR3662
+6,135001478,937325193,delins,"['genic_downstream_transcript_variant', 'intron_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
+6,135184086,1554247710,delins,['intron_variant'],['by-frequency'],unknown,MYB
+6,134971117,13208464,snv,"['intron_variant', 'genic_downstream_transcript_variant']","['by-frequency', 'by-alfa', 'by-cluster']",unknown,HBS1L
